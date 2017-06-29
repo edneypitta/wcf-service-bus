@@ -1,0 +1,1 @@
+﻿<%@ ServiceHostService="WcfServiceLibrary1.TurmaService"  %>

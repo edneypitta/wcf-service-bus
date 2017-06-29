@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="ftp://waws-prod-sn1-113.ftp.azurewebsites.windows.net/site/wwwroot">
+    <file relUrl="bin/WcfServiceLibrary1.pdb" publishTime="06/22/2017 09:46:33" />
+    <file relUrl="bin/WcfServiceLibrary1.dll" publishTime="06/22/2017 09:46:33" />
+    <file relUrl="bin/WcfServiceLibrary1.dll.config" publishTime="06/22/2017 09:08:55" />
+    <file relUrl="Web.config" publishTime="06/22/2017 09:08:55" />
+    <file relUrl="bin/Microsoft.ServiceBus.dll" publishTime="06/06/2017 11:15:08" />
+    <file relUrl="bin/Microsoft.ServiceBus.xml" publishTime="06/06/2017 11:15:10" />
+    <file relUrl="WcfServiceLibrary1.TurmaService.svc" publishTime="06/22/2017 09:46:36" />
+  </publishTarget>
+</publishData>
